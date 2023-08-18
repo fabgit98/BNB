@@ -1,6 +1,6 @@
 ## BNB 
 1. [Que es](#Que_es)
-2. [Su tecnologia](#Su tecnologia)
+2. [Su tecnologia](#Su_tecnologia)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
