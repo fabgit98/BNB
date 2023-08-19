@@ -1,7 +1,7 @@
 ## BNB 
 1. [Que es](#Que_es)
 2. [Su tecnologia](#Su_tecnologia)
-3. [Su token](#Su token)
+3. [Su token](#Su_token)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### General Info
